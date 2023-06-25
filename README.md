@@ -4,6 +4,12 @@ This is a Netflix clone built using [React](https://reactjs.org/), [Redux](https
 
 ![Netflix Clone Screenshot](screenshot.png)
 
+## Netflix-Clone Link
+
+Here is my [Netflix-Clone](netflix-clone-a542d.web.app/) deployed on firebase.
+Please note that I have deployed the application after being satisfied with my local development.( Some features like Login is still unavailable at my live site, will do soon enough ).
+
+
 ## Features
 
 - User authentication: Sign up, log in, and log out functionality using Firebase Authentication.
