@@ -2,7 +2,7 @@
 
 This is a Netflix clone built using [React](https://reactjs.org/), [Redux](https://redux.js.org/), and [Firebase](https://firebase.google.com/). It replicates the basic functionality and design of the popular streaming platform, allowing users to browse movies and TV shows, view details, and sign up for an account.
 
-![Netflix Clone Screenshot](./screenshot.png)
+![Netflix Clone Screenshot](screenshot.png)
 
 ## Features
 
@@ -49,5 +49,5 @@ This project is currently under development. While I take security seriously, pl
 
 If you discover any security vulnerabilities or have concerns regarding the security of this project, please report them to me by opening an issue.
 
-We appreciate your help and cooperation in making this project more secure.
+I appreciate your help and cooperation in making this project more secure.
 
