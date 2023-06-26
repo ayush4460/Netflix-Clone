@@ -49,9 +49,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Security Policy
 
-This project is currently under development. While I take security seriously, please note that there may be security vulnerabilities or weaknesses present. I am actively working on improving security measures and addressing any potential issues.
-
-If you discover any security vulnerabilities or have concerns regarding the security of this project, please report them to me by opening an issue.
-
-I appreciate your help and cooperation in making this project more secure.
+Go through the [Security Policy](SECURITY.md) of this Project.
 
