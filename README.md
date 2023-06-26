@@ -50,4 +50,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Security Policy
 
 Go through the [Security Policy](SECURITY.md) of this Project.
-
+<br>
+<br>
+Feel free to modify the content to match your project structure and requirements.
