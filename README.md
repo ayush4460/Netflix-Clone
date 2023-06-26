@@ -7,8 +7,6 @@ This is a Netflix clone built using [React](https://reactjs.org/), [Redux](https
 ## Netflix-Clone Link
 
 Here is my [Netflix-Clone](https://netflix-clone-a542d.web.app/) deployed on firebase.
-Please note that I have deployed the application after being satisfied with my local development.( Some features like Login is still unavailable at my live site, will do soon enough ).
-
 
 ## Features
 
@@ -16,7 +14,7 @@ Please note that I have deployed the application after being satisfied with my l
 - Movie and TV show browsing: Display a collection of movies and TV shows with details such as title, poster, and overview.
 - Movie and TV show details: Show additional information when a movie or TV show is selected, including the release year, rating, and cast.
 - User login: Allow users to create an account and log in to access personalized features.
-- User menu (work in progress): Provide a user menu to manage account settings and preferences.
+- User menu: Provide a user menu to manage account settings and preferences.
 
 ## Technologies Used
 
