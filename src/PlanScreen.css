@@ -6,6 +6,10 @@
   margin-left: 5px;
 }
 
+.planScreen > p {
+    font-size: 0.8rem;
+    margin-top: 5px;
+}
 
 .planScreen__info:hover {
   opacity: 1;

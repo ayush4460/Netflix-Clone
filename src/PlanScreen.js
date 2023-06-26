@@ -4,6 +4,7 @@ import "./PlanScreen.css";
 const PlanScreen = () => {
   return (
     <div className="planScreen">
+        <p>Renewal Date: 01/01/2024</p>
       <div className="planScreen__plan">
         <div className="planScreen__info">
           <div>
